@@ -30,8 +30,8 @@
         "capslock": true,
         "format": "{name} {icon}",
         "format-icons": {
-            "locked": "",
-            "unlocked": ""
+            "locked": "\uf023",
+            "unlocked": "\uf2fc"
         }
     },
     "sway/mode": {
@@ -51,21 +51,21 @@
         "unknown-tag": "N/A",
         "interval": 2,
         "consume-icons": {
-            "on": " "
+            "on": "\u23fd "
         },
         "random-icons": {
             "off": "<span color=\"#f53c3c\"></span> ",
             "on": " "
         },
         "repeat-icons": {
-            "on": " "
+            "on": "\uf0b6 "
         },
         "single-icons": {
-            "on": "1 "
+            "on": "\udb80\udc251 "
         },
         "state-icons": {
-            "paused": "",
-            "playing": ""
+            "paused": "\uf04c",
+            "playing": "\uf04b"
         },
         "tooltip-format": "MPD (connected)",
         "tooltip-format-disconnected": "MPD (disconnected)"
